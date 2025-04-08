@@ -2,6 +2,10 @@
 
 This notebook was developed and executed on **Kaggle** using the **GPT T4x2 Accelerator**, which provides dual NVIDIA T4 GPUs for faster model training and inference.
 
+## Demo
+
+The fine-tuned model is live on hugging space. Click [here](https://huggingface.co/spaces/RSRathore/ny-captioning) to check the app out. 
+
 ## Overview
 
 This notebook demonstrates:
