@@ -10,7 +10,6 @@ The fine-tuned model is live on hugging space. Click [here](https://huggingface.
 
 This notebook demonstrates:
 - Image caption generating through finetuning BLIP base model on NY dataset.
-- Fine-tuned on 100 datapoints only.
 
 ## Hardware Used
 
